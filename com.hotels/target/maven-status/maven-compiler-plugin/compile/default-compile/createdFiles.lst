@@ -1,0 +1,3 @@
+com\hotels\com\hotels\service\DashboardService.class
+com\hotels\com\hotels\restImpl\DashboardRestImpl.class
+com\hotels\com\hotels\rest\DashboardRest.class
